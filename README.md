@@ -11,4 +11,6 @@ Something
 ![SQL](https://img.shields.io/badge/SQL-000000?logo=Mysql&style=for-the-badge)
 ![Devtools](https://img.shields.io/badge/Devtools-000000?style=for-the-badge)
 
-Socials
+### My links
+[![Telegram](https://img.shields.io/badge/Telegram-000000?logo=telegram&style=for-the-badge)](https://t.me/WestgateAmg)
+[![VK](https://img.shields.io/badge/Vk-000000?logo=Vk&style=for-the-badge)](https://vk.com/cavadovram)
