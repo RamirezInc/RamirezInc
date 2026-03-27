@@ -1,6 +1,6 @@
 [![Header](https://github.com/RamirezInc/RamirezInc/blob/main/assets/Header.png)](https://t.me/WestgateAmg)
 
-## Beginner QA engineer. This is my portfolio for Employers.
+## Beginner QA engineer.
 
 Something
 
