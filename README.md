@@ -1,8 +1,8 @@
 [![Header](https://github.com/RamirezInc/RamirezInc/blob/main/assets/Header.png)](https://t.me/WestgateAmg)
 
-## Beginner QA engineer.
+## Beginner QA engineer
 
-Something
+### [My Resume](https://drive.google.com/file/d/10bdxQ__VEFwqJxkMHWgnicsgkvNS63Gm/view?usp=drive_link)
 
 ### Languages and Tools
 ![Git](https://img.shields.io/badge/Git-000000?logo=github&style=for-the-badge)
