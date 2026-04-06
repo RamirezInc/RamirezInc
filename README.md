@@ -2,7 +2,9 @@
 
 ## Beginner QA engineer
 
-### [My Resume](https://drive.google.com/file/d/10bdxQ__VEFwqJxkMHWgnicsgkvNS63Gm/view?usp=drive_link)
+### [Мое резюме](https://drive.google.com/file/d/10bdxQ__VEFwqJxkMHWgnicsgkvNS63Gm/view?usp=drive_link)
+### Тестовые артефакты
+[Тестирование требований](https://docs.google.com/spreadsheets/d/1SoAt2GuRo_o-BgKlfwd9EEEr0DHfBxp3nmbiCOvM4U4/edit?usp=sharing)
 
 ### Languages and Tools
 ![Git](https://img.shields.io/badge/Git-000000?logo=github&style=for-the-badge)
