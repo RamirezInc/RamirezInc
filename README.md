@@ -6,6 +6,8 @@
 ## Тестовые артефакты
 [Тестирование требований](https://docs.google.com/spreadsheets/d/1SoAt2GuRo_o-BgKlfwd9EEEr0DHfBxp3nmbiCOvM4U4/edit?usp=sharing)
 
+[Коллекция Postman с базовыми скриптами на извлечение данных](https://drive.google.com/drive/folders/1nYHuAthZOdM_41HJhrdVNzQEcnZnTna3?usp=sharing)
+
 ## Languages and Tools
 ![Git](https://img.shields.io/badge/Git-000000?logo=github&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-000000?logo=python&style=for-the-badge)
