@@ -1,4 +1,4 @@
-[![Header](https://github.com/RamirezInc/RamirezInc/blob/main/assets/218276.mp4)](https://t.me/WestgateAmg)
+[![Header](https://github.com/RamirezInc/RamirezInc/blob/main/assets/Header.gif)](https://t.me/WestgateAmg)
 
 ## Beginner QA engineer
 
