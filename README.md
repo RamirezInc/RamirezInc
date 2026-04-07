@@ -4,7 +4,7 @@
 
 ## Beginner QA engineer
 
-### [Мое резюме](https://drive.google.com/file/d/10bdxQ__VEFwqJxkMHWgnicsgkvNS63Gm/view?usp=drive_link)
+### [Мое резюме](https://drive.google.com/file/d/1x-NRkmvhvYdkx_6IwylMXXXJp8W7YYfb/view?usp=sharing)
 ## Тестовые артефакты
 [Тестирование требований](https://docs.google.com/spreadsheets/d/1SoAt2GuRo_o-BgKlfwd9EEEr0DHfBxp3nmbiCOvM4U4/edit?usp=sharing)
 
