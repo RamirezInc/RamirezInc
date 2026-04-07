@@ -1,4 +1,5 @@
-[![Header](https://github.com/RamirezInc/RamirezInc/blob/main/assets/Header.gif)](https://t.me/WestgateAmg)
+<div align="center">[![Header](https://github.com/RamirezInc/RamirezInc/blob/main/assets/Header.gif)](https://t.me/WestgateAmg)
+</div>
 
 ## Beginner QA engineer
 
