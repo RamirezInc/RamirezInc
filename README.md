@@ -1,5 +1,6 @@
-<div align="center">[![Header](https://github.com/RamirezInc/RamirezInc/blob/main/assets/Header.gif)](https://t.me/WestgateAmg)
-</div>
+<img align = center width = "100">[![Header](https://github.com/RamirezInc/RamirezInc/blob/main/assets/Header.gif)](https://t.me/WestgateAmg)
+</img>
+
 
 ## Beginner QA engineer
 
